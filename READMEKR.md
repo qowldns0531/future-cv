@@ -3,8 +3,8 @@
 
 ## Contact / 기본 정보
 
-- **Name / 이름:** 배지운 (Bae Jiun)
-- **Email / 이메일:** your-email@example.com
+- **이름:** 배지운 (Bae Jiun)
+- **이메일:** your-email@example.com
 - **GitHub:** [https://github.com/your-github-id](https://github.com/your-github-id)
 
 ## Summary / 자기소개
