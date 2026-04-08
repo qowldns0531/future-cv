@@ -4,7 +4,7 @@
 ## Contact / 기본 정보
 
 - **이름:** 배지운 (Bae Jiun)
-- **이메일:** your-email@example.com
+- **이메일:** qowldns2000@gmail.com.com
 - **GitHub:** [https://github.com/your-github-id](https://github.com/your-github-id)
 
 ## Summary / 자기소개
