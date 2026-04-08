@@ -1,6 +1,5 @@
 # Future CV - 배지운 (Bae Jiun)
 > 본 문서는 과제 수행을 위한 가상 미래 이력서입니다.  
-> This is a fictional future CV created for academic practice.
 
 ## Contact / 기본 정보
 
