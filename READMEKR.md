@@ -5,7 +5,7 @@
 
 - **이름:** 배지운 (Bae Jiun)
 - **이메일:** qowldns2000@gmail.com.com
-- **GitHub:** [https://github.com/your-github-id](https://github.com/your-github-id)
+- **GitHub:** [https://github.com/qowldns0531](https://github.com/qowldns0531)
 
 ## Summary / 자기소개
 
@@ -121,8 +121,8 @@
 
 ## Links / 관련 링크
 
-- GitHub: [https://github.com/your-github-id](https://github.com/your-github-id)
-- Future CV Page: [https://your-github-id.github.io/future-cv/](https://your-github-id.github.io/future-cv/)
+- GitHub: [https://github.com/qowldns0531](https://github.com/qowldns0531)
+- Future CV Page: [https://qowldns0531.github.io/future-cv/](https://qowldns0531.github.io/future-cv/)
 
 ## References / 추천인
 
