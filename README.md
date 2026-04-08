@@ -4,9 +4,9 @@
 
 
 ## Contact
-**Name:** Bae Jiun
-**Email:** qowldns2000@gmail.com
-**GitHub:** [https://github.com/qowldns0531](https://github.com/qowldns0531)
+- **Name:** Bae Jiun
+- **Email:** qowldns2000@gmail.com
+- **GitHub:** [https://github.com/qowldns0531](https://github.com/qowldns0531)
 
 ## Summary
 I am a future Republic of Korea Army officer who aims to lead with discipline, judgment, responsibility, and physical endurance.  
