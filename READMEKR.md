@@ -133,8 +133,8 @@
 
 ## References / 추천인
 
-### Prof. Open Source Software Practice
+### Dr. Kyudong Park
 - Course Instructor
-- Email: professor@example.com
+- Email: kdpark@kw.ac.kr
 
 > Reference included for assignment purposes.
